@@ -1,24 +1,10 @@
-==========================
-Architecture Working Group
-==========================
+This project is no longer maintained.
+  
+The contents of this repository are still available in the Git
+source code management system.  To see the contents of this
+repository before it reached its end of life, please check out the
+previous commit with "git checkout HEAD^1".
 
-This repository if for storing Architecture Working Group resources,
-investigation documents and methodologies. All documents are in RST format and
-located in `doc/source/` sub-folder.
-
-Building
-========
-
-Prerequisites
--------------
-
-To get started, you need to install all necessary tools:
- * `virtualenv`
- * `pip` (use the latest from `https://bootstrap.pypa.io/get-pip.py`)
- * `tox`
- * system dependencies: `libjpeg-dev`
-
-Run the build
--------------
-
- $ tox
+For any further questions, please email
+openstack-discuss@lists.openstack.org or join #openstack-dev on
+OFTC.
